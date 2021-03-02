@@ -1,1 +1,1 @@
-# FFNN_vs_CNN.github.io
+# FFNN vs CNN
